@@ -1,4 +1,4 @@
-###Factory Information commands
+### Factory Information commands
 
 **factory_info list** - List factory information
 
@@ -12,6 +12,6 @@
 
 **factory_info clean** - Clean factioy information
 
-##Compile
+## Compile
 
 gcc main.c -o /bin/factory-info
