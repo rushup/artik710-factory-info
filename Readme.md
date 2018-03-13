@@ -14,4 +14,4 @@
 
 ## Compile
 
-gcc main.c -o /bin/factory-info
+gcc main.c -o /usr/bin/factory-info
